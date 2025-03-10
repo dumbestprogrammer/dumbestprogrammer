@@ -41,27 +41,56 @@ Passionate about **building real-world solutions** that go beyond simple tutoria
 
 
 ---
-## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dumbestprogrammer)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats and Trophies
 
-[![GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=dumbestprogrammer&show_icons=true&bg_color=30,2b2b2b,434343&title_color=ffffff&text_color=dddddd&icon_color=ffffff#gh-dark-mode-only)](https://github.com/dumbestprogrammer#gh-dark-mode-only)
+### ✅ GitHub Stats
+<!-- [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dumbestprogrammer)](https://github.com/anuraghazra/github-readme-stats)  -->
 
-[![GitHub stats-light](https://github-readme-stats.vercel.app/api?username=dumbestprogrammer&show_icons=true&bg_color=30,e8e8e8,ffffff&title_color=000000&text_color=333333&icon_color=000000#gh-light-mode-only)](https://github.com/dumbestprogrammer#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=dumbestprogrammer&theme=default_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dumbestprogrammer&theme=default_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dumbestprogrammer&theme=default_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 🔝 Top Languages
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dumbestprogrammer)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 
 
-<!--
-**dumbestprogrammer/dumbestprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏆 GitHub Trophies
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-profile-trophy.vercel.app/?username=dumbestprogrammer&theme=default_repocard&no-frame=true&no-bg=false&margin-w=4)
+
+<br>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dumbestprogrammer&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+
+---
+
+## 📚 My Blog Posts 
+📝 I regularly write articles on [**Hashnode**.](https://hashnode.com/@dumbestprogrammer)
+<br>
+
+#### ⚡ [SOLID Principles: A Clarity Journey](https://dumbestprogrammer.hashnode.dev/solid-principles-a-clarity-journey)
+- An in-depth article on SOLID principles, aiming to clarify key design concepts and enhance best practices for the backend development. 
+- Focused on clear, concise explanations to support developers in applying these principles effectively in real-world scenarios.
+
+#### ⚡ [Modular Monoliths Explained: A Beginner’s Journey](https://dumbestprogrammer.hashnode.dev/modular-monoliths-explained-a-beginners-journey)
+- Breaking down what it is, how it works, and why it's worth learning.
+- Practical breakdown of core concepts like modularization, cohesion vs. coupling, module communication, and how to design scalable, maintainable monoliths.
+
+---
+
+## 📫 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anukulmaurya18@gmail.com)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anukul-kumar-237aaa254/)  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dumbestprogrammer)[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dumbestprogrammer.hashnode.dev/)
+
+---
+
+
+
