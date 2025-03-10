@@ -53,11 +53,13 @@ Passionate about **building real-world solutions** that go beyond simple tutoria
 ![](https://nirzak-streak-stats.vercel.app/?user=dumbestprogrammer&theme=default_border=false)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dumbestprogrammer&theme=default_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br>
 
 ### 🔝 Top Languages
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dumbestprogrammer)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dumbestprogrammer&theme=default_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!--[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dumbestprogrammer)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br>
 
