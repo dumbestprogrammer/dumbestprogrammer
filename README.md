@@ -45,10 +45,13 @@ Passionate about **building real-world solutions** that go beyond simple tutoria
 ## 📊 GitHub Stats and Trophies
 
 ### ✅ GitHub Stats
-<!-- [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dumbestprogrammer)](https://github.com/anuraghazra/github-readme-stats)  -->
+ [![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dumbestprogrammer)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=dumbestprogrammer&theme=default_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dumbestprogrammer&theme=default_border=false)<br/>
+[](https://github-readme-stats.vercel.app/api?username=&theme=default_border=false&include_all_commits=true&count_private=false)
+
+
+![](https://nirzak-streak-stats.vercel.app/?user=dumbestprogrammer&theme=default_border=false)
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dumbestprogrammer&theme=default_border=false&include_all_commits=true&count_private=false&layout=compact)
 
