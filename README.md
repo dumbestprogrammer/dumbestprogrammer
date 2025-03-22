@@ -1,5 +1,7 @@
 ## Hi👋, I'm Anukul.   <br>
 [My Portfolio](https://anukul-dev.crd.co)
+<br>
+
 **Recent graduate** with a strong foundation in **Java** and **Backend Development**. <br>
 Passionate about **building real-world solutions** that go beyond simple tutorials.
 
