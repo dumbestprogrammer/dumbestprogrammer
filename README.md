@@ -26,7 +26,7 @@ Passionate about **building real-world solutions** that go beyond simple tutoria
 
 ---
 
-
+<!--
 ## 🧰 Languages and Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -40,24 +40,12 @@ Passionate about **building real-world solutions** that go beyond simple tutoria
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) -->
 
 
 ---
 
 ## 📊 GitHub Stats and Trophies
-
-### ✅ GitHub Stats
- [![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dumbestprogrammer)](https://github.com/anuraghazra/github-readme-stats)
-
-[](https://github-readme-stats.vercel.app/api?username=&theme=default_border=false&include_all_commits=true&count_private=false)
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=dumbestprogrammer&theme=default_border=false)
-
-
-<br>
-
 ### 🔝 Top Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dumbestprogrammer&theme=default_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -65,13 +53,6 @@ Passionate about **building real-world solutions** that go beyond simple tutoria
 <!--[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dumbestprogrammer)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br>
-
-
-
-### 🏆 GitHub Trophies
-
-
-![](https://github-profile-trophy.vercel.app/?username=dumbestprogrammer&theme=default_repocard&no-frame=true&no-bg=false&margin-w=4)
 
 <br>
 
