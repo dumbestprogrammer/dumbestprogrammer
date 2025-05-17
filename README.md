@@ -25,7 +25,6 @@ Passionate about **building real-world solutions** that go beyond simple tutoria
 #### 🌱 I’m currently learning [Angular](https://angular.dev/overview) .
 #### 📚 And next on my learning roadmap : [OAuth 2.0](https://oauth.net/2/) .      -->
 
----
 
 <!--
 ## 🧰 Languages and Tools
