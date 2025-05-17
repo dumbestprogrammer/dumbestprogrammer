@@ -1,7 +1,7 @@
 ## Hi👋, I'm Anukul.   <br>
-[My Portfolio](https://anukul-dev.crd.co)
+[Anukul-dev](https://anukul-dev.crd.co)
 <br>
-
+<!--
 **Recent graduate** with a strong foundation in **Java** and **Backend Development**. <br>
 Passionate about **building real-world solutions** that go beyond simple tutorials.
 
@@ -9,20 +9,21 @@ Passionate about **building real-world solutions** that go beyond simple tutoria
 **Hands-on experience** developing **robust backend systems** using: <br>
 ➜    **Spring Boot**, **Microservices**, **REST APIs**<br>
 ➜    **Service Registry**, **API Gateway**, **Secure Authentication (JWT, Bcrypt)** <br>
-➜    **Data Processing & Scalable Architectures** <br>
-➜    Focused on **clean code**, **scalable design**, and **practical solutions** that solve real problems.
+➜    **Data Processing & Scalable Architectures** <br>  -->
 
 
-### 🎯 What Drives Me
+<!--
+### 🎯 What Drives Me  -->
 
 ➜ **Constantly learning, building, and refining** my skills. <br>
 ➜ Enjoy exploring **new technologies & concepts** in backend development. <br>
-➜ Seeking **entry-level opportunities** where I can **grow, contribute**, and make an **impact**.
+➜ Focused on **clean code**, **scalable design**, and **practical solutions** that solve real problems.
+<!--➜ Seeking **entry-level opportunities** where I can **grow, contribute**, and make an **impact**.
 <br>
 
 
 #### 🌱 I’m currently learning [Angular](https://angular.dev/overview) .
-#### 📚 And next on my learning roadmap : [OAuth 2.0](https://oauth.net/2/) .
+#### 📚 And next on my learning roadmap : [OAuth 2.0](https://oauth.net/2/) .      -->
 
 ---
 
@@ -51,8 +52,6 @@ Passionate about **building real-world solutions** that go beyond simple tutoria
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dumbestprogrammer&theme=default_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!--[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dumbestprogrammer)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<br>
 
 <br>
 
