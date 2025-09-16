@@ -60,7 +60,7 @@ Passionate about **building real-world solutions** that go beyond simple tutoria
 ---
 
 ## 📚 My Blog Posts 
-📝 I regularly write articles on [**Hashnode**.](https://hashnode.com/@dumbestprogrammer)
+📝 I regularly write articles on [**Hashnode**](https://hashnode.com/@dumbestprogrammer) and [**dev.to**](https://dev.to/dumbestprogrammer).
 <br>
 
 #### ⚡ [SOLID Principles: A Clarity Journey](https://dumbestprogrammer.hashnode.dev/solid-principles-a-clarity-journey)
@@ -71,11 +71,14 @@ Passionate about **building real-world solutions** that go beyond simple tutoria
 - Breaking down what it is, how it works, and why it's worth learning.
 - Practical breakdown of core concepts like modularization, cohesion vs. coupling, module communication, and how to design scalable, maintainable monoliths.
 
+#### ⚡ [Cyclic Dependency in a Microservice Architecture](https://dev.to/dumbestprogrammer/cyclic-dependency-in-a-microservice-architecture-1e6c)
+- Analyzed a cyclic dependency introduced by service-to-service aggregation and redesigned it so composition happens at the edge, keeping Service A→B one-way and the system easier to operate.
 ---
 
 ## 📫 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anukulmaurya18@gmail.com)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anukul-kumar-237aaa254/)  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dumbestprogrammer)[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dumbestprogrammer.hashnode.dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anukulmaurya18@gmail.com)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anukul-kumar-237aaa254/)  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dumbestprogrammer)[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dumbestprogrammer.hashnode.dev/)[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dumbestprogrammer)
+
 
 ---
 
